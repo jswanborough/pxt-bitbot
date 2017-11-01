@@ -9,11 +9,7 @@
     },
     "files": [
         "README.md",
-        "main.ts",
-        "_locales/no/bitbot-strings.json"
-    ],
-    "testFiles": [
-        "tests.ts"
+        "main.ts"
     ],
     "yotta": {},
     "public": true
