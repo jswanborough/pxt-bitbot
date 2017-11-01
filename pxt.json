@@ -11,6 +11,9 @@
         "README.md",
         "main.ts"
     ],
+    "testFiles": [		
+ -        "tests.ts"		
+      ],
     "yotta": {},
     "public": true
 }
